@@ -182,5 +182,5 @@ print(f"Estimated price: ₹{price:.2f} Lakhs")
 
 ## Author
 
-**Mudassir** — CodeAlpha Data Science Intern  
+**Muhammad Asif Khan** — CodeAlpha Data Science Intern  
 [GitHub](https://github.com) · [LinkedIn](https://linkedin.com)
